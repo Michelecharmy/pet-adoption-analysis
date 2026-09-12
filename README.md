@@ -57,7 +57,7 @@ These findings describe associations observed in the dataset and should not be i
 
 The interactive Tableau dashboard is available here:
 
-**[View the Tableau Dashboard]((https://public.tableau.com/app/profile/michele.martins/viz/PetAdoptionAnalysis_17891626595020/Dashboard))**
+[View the Tableau Dashboard](https://public.tableau.com/app/profile/michele.martins/viz/PetAdoptionAnalysis_17891626595020/Dashboard)
 
 ## Tools Used
 
@@ -72,13 +72,13 @@ pet-adoption-analysis/
 ├── data/
 │   ├── train.csv
 │   ├── BreedLabels.csv
-│   ├── ColorLabels.csv
-│   └── train - Analysis.csv
-└── README.md ```
+│   ├── ColorLabels.csv 
+└── README.md
+``` 
 
 ## Dataset
 
-Source:Petfinder.my Adoption Prediction dataset, available through Kaggle.
+Source: Petfinder.my Adoption Prediction dataset, available through Kaggle.
 
 
 ## Conclusion
