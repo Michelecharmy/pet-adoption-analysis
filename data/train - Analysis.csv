@@ -1,0 +1,48 @@
+AdoptionSpeed,Quantidade,,,,,
+0 - Mesmo dia,240,,,,,
+1 - 1–7 dias,1655,,,,,
+2 - 8–30 dias,1873,,,,,
+3 - 31–90 dias,1310,,,,,
+4 - Não adotado após 100 dias,1783,,,,,
+Total,6861,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Faixa etária,Speed 0,Speed 1,Speed 2,Speed 3,Speed 4,Total
+0–6 meses,182,1362,1479,972,985,4980
+7–12 meses,33,155,219,185,430,1022
+13–36 meses,21,110,130,117,298,676
+37–84 meses,2,25,43,27,62,159
+85–144 meses,2,2,2,6,8,20
+145+ meses,0,1,0,3,0,4
+Total,240,1655,1873,1310,1783,6861
+,,,,,,
+,,,,,,
+,,,,,,
+Castração,Speed 0,Speed 1,Speed 2,Speed 3,Speed 4,Total
+Castrado,35,169,282,250,522,1258
+Não castrado,167,1329,1450,963,996,4905
+Desconhecido,38,157,141,97,265,698
+Total,240,1655,1873,1310,1783,6861
+,,,,,,
+,,,,,,
+,,,,,,
+Gender,Speed 0,Speed 1,Speed 2,Speed 3,Speed 4,Total
+Macho,88,643,732,466,602,2531
+Fêmea,118,696,823,576,812,3025
+Grupo/misto,34,316,318,268,369,1305
+Total,240,1.655,1.873,1.31,1.783,6.861
+,,,,,,
+,,,,,,
+,,,,,,
+Vaccinated,Speed 0,Speed1,Speed 2,Speed 3,Speed 4,Total
+Vacinado,53,353,526,433,627,1992
+Não vacinado,155,1151,1205,788,909,4.208
+Desconhecido,32,151,142,89,247,661
+Total,240,1655,1873,1310,1783,6.861
+,,,,,,
+,,,,,,
+Castração,Speed 4,Total,% Speed 4,,,
+Castrado,522,1258,41.49%,,,
+Não castrado,996,4905,20.31%,,,
+Desconhecido,265,698,37.97%,,,
